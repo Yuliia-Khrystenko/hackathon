@@ -155,6 +155,7 @@ section.hero-bg {
   padding: 100px 0;
   background: #000;
   color: #777;
+}
 .row {
   display: flex;
   flex-wrap: wrap;
@@ -164,4 +165,3 @@ section.hero-bg {
   max-width: 445px;
   width: 100%;
 }
-
